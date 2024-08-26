@@ -13,3 +13,7 @@ Of course, there are always some bumps in the road, so I'll share some common ch
 Finally, we'll look ahead to the future. There's so much potential for deeper integration and community-driven innovation. I hope to inspire you to explore these possibilities and collaborate with other developers to push the boundaries of what's possible.
 
 By the end of this talk, you'll have a good grasp of how to mix Python and Julia in your projects and leverage the strengths of both languages to supercharge your data analysis.
+
+<div>
+<img src="img/Princeton%20logo.png" width="150" align="right"/>
+</div>
