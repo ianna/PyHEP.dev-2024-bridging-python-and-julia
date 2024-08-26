@@ -1,3 +1,11 @@
+<div>
+<img src="img/pyhep-logo.png" width="120" align="left"/>
+</div>
+
+<div>
+<img src="img/IRIS-HEP%20logo.png" width="200" align="right"/>
+</div>
+
 # PyHEP.dev 2024: Bridging Python and Julia for Enhanced Data Analysis
 
 Let’s discuss the exciting world of combining Python and Julia for data analysis for high-energy physics (HEP) and other data-intensive fields.
@@ -14,6 +22,19 @@ Finally, we'll look ahead to the future. There's so much potential for deeper in
 
 By the end of this talk, you'll have a good grasp of how to mix Python and Julia in your projects and leverage the strengths of both languages to supercharge your data analysis.
 
+## Authors
 <div>
 <img src="img/Princeton%20logo.png" width="150" align="right"/>
 </div>
+
+- Ianna Osborne, Princeton University
+- Jim Pivarski, Princeton University
+- Jerry 🦑 Ling, Harvard University
+
+
+## Acknowledgements
+<div>
+<img src="img/NSF%20logo.png" width="60" align="left"/>
+</div>
+
+Support for this work was provided by NSF cooperative agreement [OAC-1836650](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1836650) (IRIS-HEP)
