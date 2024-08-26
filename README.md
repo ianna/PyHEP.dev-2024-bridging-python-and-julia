@@ -6,7 +6,7 @@
 <img src="img/IRIS-HEP%20logo.png" width="200" align="right"/>
 </div>
 
-# PyHEP.dev 2024: Bridging Python and Julia for Enhanced Data Analysis
+# PyHEP.dev 2024:<br>Bridging Python and Julia for Enhanced Data Analysis
 
 Let’s discuss the exciting world of combining Python and Julia for data analysis for high-energy physics (HEP) and other data-intensive fields.
 
